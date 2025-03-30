@@ -1,5 +1,7 @@
 # Case-Book-Review-Analysis-and-Prediction-Model
 
+---
+
 ## Project Purpose
 
 This project aims to analyze book reviews by performing sentiment analysis on review texts and predicting their corresponding ratings. It leverages natural language processing (NLP) techniques and deep learning models to process book review datasets. By doing so, it enables the identification of whether user comments are positive, negative, or neutral, as well as the prediction of review ratings. The project is particularly applicable in areas such as the publishing industry, e-commerce platforms, and book recommendation systems.
